@@ -1,0 +1,15 @@
+body {
+    color: #999;
+}
+
+.healthy {
+    color: green;
+}
+
+.wounded {
+    color: yellow;
+}
+
+.critical {
+    color: red;
+}
